@@ -7,3 +7,4 @@ while :
 do
   DISPLAY=:0 heaptrack_gui > /dev/null 2>&1
   sleep 2
+done
